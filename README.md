@@ -1,7 +1,7 @@
 # ElevatorSimulation
 
 ## Introduction
-This project simulates the situation in a ten-story building with three elevators. The project is written in Java using knowledge focous on Multithreading.
+This project simulates the situation in a ten-story building with three elevators. The project is written in Java using knowledge focus on Multithreading.
 
 
 ## Input File
